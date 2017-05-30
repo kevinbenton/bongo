@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.swp
+bongo_bgp.egg-info/
+/.*
+!/.gitignore
